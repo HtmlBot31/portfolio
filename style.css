@@ -1,1 +1,31 @@
+main, footer {
+    font-family: Courier New;
+}
 
+header {
+    background-color: #5CCCCC;
+    margin-top: -20px;
+}
+
+h1 {
+    color: lightcoral;
+    background-color: lightgreen ;
+}
+
+a {
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: ;
+}
+
+a:hover {
+    transform: scale(1.5) translateX(20px);
+    transition: 0.5s linear;
+}
+
+a {
+    color: black;
+}
