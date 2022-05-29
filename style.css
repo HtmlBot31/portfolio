@@ -12,6 +12,11 @@ h1 {
     background-color: lightgreen ;
 }
 
+h2 {
+    color: lightcoral;
+    text-align: center;
+}
+
 a {
     color: black;
     display: inline-block;
@@ -28,4 +33,13 @@ a:hover {
 
 a {
     color: black;
+}
+
+img {
+    width: 400px;
+    height:300px;
+}
+
+ul {
+    float: right;
 }
